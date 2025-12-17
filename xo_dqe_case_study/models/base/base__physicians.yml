@@ -1,0 +1,46 @@
+version: 2
+
+models:
+  - name: base__physicians
+    description: ""
+    columns:
+      - name: id
+        data_type: number
+        description: ""
+
+      - name: first_name
+        data_type: varchar
+        description: ""
+
+      - name: middle_name
+        data_type: varchar
+        description: ""
+
+      - name: last_name
+        data_type: varchar
+        description: ""
+
+      - name: npi
+        data_type: number
+        description: ""
+
+      - name: specialty
+        data_type: varchar
+        description: ""
+
+      - name: care_site_id
+        data_type: number
+        description: ""
+
+      - name: email
+        data_type: varchar
+        description: ""
+
+      - name: created_at
+        data_type: timestamp_ntz
+        description: ""
+
+      - name: updated_at
+        data_type: timestamp_ntz
+        description: ""
+

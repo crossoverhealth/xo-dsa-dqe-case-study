@@ -1,0 +1,23 @@
+id,first_name,middle_name,last_name,npi,specialty,care_site_id,email,created_at,updated_at
+1,Jennifer,B,Martin,9660860724,Obstetrics & Gynecology,2,martin82@healthsandbox.local,2023-01-14T07:57:40,2025-04-08T06:40:50
+2,Gregory,K,Huber,1483309217,Pulmonology,1,user4018@training-env.invalid,2024-07-12T14:34:01,2025-06-17T19:49:50
+3,Sarah,,Thomas,0719075416,Obstetrics & Gynecology,2,thomas85@examplecare.test,2024-12-10T00:00:15,2025-08-24T10:09:18
+4,Candace,M,Brown,7925462351,Family Medicine,2,cbrown@notrealhealth.org.test,2024-07-13T12:26:46,2025-01-28T10:23:35
+5,Kenneth,J,Jimenez,8115464261,,2,kjimenez@training-env.invalid,2023-08-23T01:40:24,2024-03-24T22:09:36
+6,Noah,G,Rodriguez,9153520506,Family Medicine,3,member892@training-env.invalid,2024-10-18T12:31:44,2025-04-28T21:13:29
+7,Brian,,Salas,,Internal Medicine,1,user4065@notrealhealth.org.test,2023-06-17T21:34:56,2024-04-21T11:58:50
+8,Shannon,R,Hartman,206647,Dermatology,3,hartman22@healthsandbox.local,2024-08-18T12:43:42,2025-04-05T12:32:03
+9,Troy,M,Martinez,9578818663,Obstetrics & Gynecology,3,user3811@training-env.invalid,2024-06-28T07:15:15,2025-03-16T15:56:27
+10,Shannon,B,Pierce,1325109326,Endocrinology,2,user3195@healthsandbox.local,2023-12-24T00:47:23,2024-01-10T23:42:24
+11,Jessica,,Mitchell,1036646782,Gastroenterology,2,jmitchell@training-env.invalid,2023-01-31T05:36:55,2025-05-26T03:15:26
+12,Jillian,B,Kirk,6530305758,Cardiology,3,kirk70@training-env.invalid,2023-12-10T17:51:30,2024-11-30T12:42:31
+13,Nathan,A,Jones,7399023624,Pulmonology,1,jones20@notrealhealth.org.test,2023-12-01T01:15:58,2024-06-30T18:10:41
+14,Connie,A,Olsen,3862615070,,2,colsen@healthsandbox.local,2023-03-21T12:46:05,2023-04-27T17:39:48
+15,Mckenzie,S,Elliott,1936902948,Neurology,2,elliott82@training-env.invalid,2023-12-09T04:56:21,2024-07-24T13:17:28
+16,Angel,L,Wong,,Internal Medicine,1,awong@notrealhealth.org.test,2023-03-11T00:49:03,2023-12-15T19:54:10
+17,Isabella,A,Carpenter,3160815493,Endocrinology,1,icarpenter@healthsandbox.local,2024-04-05T07:46:34,2024-12-23T22:56:48
+18,Kathy,D,Cooper,8709350966,Pediatrics,2,cooper74@healthsandbox.local,2023-09-04T05:19:11,2025-09-16T15:54:52
+19,Melanie,R,Li,70607189,Psychiatry,1,li72@healthsandbox.local,2023-05-11T22:28:48,2025-05-02T17:46:30
+20,Catherine,M,Wang,3993943376,Endocrinology,1,member839@notrealhealth.org.test,2023-01-18T00:49:13,2024-08-09T07:51:27
+21,Catherine,,Wang,3993943376,Endocrinology,3,member839@notrealhealth.org.test,2025-04-18T02:47:13,2025-04-18T02:47:13
+22,Nathan,A,Jones,7399023624,Pulmonology,4,jones20@notrealhealth.org.test,2025-04-22T03:47:13,2025-04-22T03:47:13

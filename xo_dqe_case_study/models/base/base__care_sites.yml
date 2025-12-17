@@ -1,0 +1,42 @@
+version: 2
+
+models:
+  - name: base__care_sites
+    description: ""
+    columns:
+      - name: id
+        data_type: number
+        description: ""
+
+      - name: address_1
+        data_type: varchar
+        description: ""
+
+      - name: address_2
+        data_type: varchar
+        description: ""
+
+      - name: city
+        data_type: varchar
+        description: ""
+
+      - name: state
+        data_type: varchar
+        description: ""
+
+      - name: zip_code
+        data_type: number
+        description: ""
+
+      - name: country
+        data_type: varchar
+        description: ""
+
+      - name: created_at
+        data_type: timestamp_ntz
+        description: ""
+
+      - name: updated_at
+        data_type: timestamp_ntz
+        description: ""
+

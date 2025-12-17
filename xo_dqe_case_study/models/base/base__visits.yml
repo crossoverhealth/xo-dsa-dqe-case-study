@@ -1,0 +1,38 @@
+version: 2
+
+models:
+  - name: base__visits
+    description: ""
+    columns:
+      - name: id
+        data_type: number
+        description: ""
+
+      - name: patient_id
+        data_type: number
+        description: ""
+
+      - name: physician_id
+        data_type: number
+        description: ""
+
+      - name: start_time
+        data_type: timestamp_ntz
+        description: ""
+
+      - name: end_time
+        data_type: timestamp_ntz
+        description: ""
+
+      - name: status
+        data_type: varchar
+        description: ""
+
+      - name: created_at
+        data_type: timestamp_ntz
+        description: ""
+
+      - name: updated_at
+        data_type: timestamp_ntz
+        description: ""
+
