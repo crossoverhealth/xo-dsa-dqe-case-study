@@ -1,4 +1,4 @@
-# xo_dqe_case_study
+# xo-dsa-dqe-case-study
 
 Welcome! 👋
 
