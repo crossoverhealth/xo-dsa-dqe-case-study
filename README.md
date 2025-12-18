@@ -10,6 +10,8 @@ This repo contains a simple dbt project with **fake** patient data. You may conn
 
 **Running queries, models and tests is not required.** You may simply view the project and submit your work/findings if you prefer. The case study is open-ended to an extent, so you may also use the [dbt seeds](./xo_dqe_case_study/seeds/) (which are just CSV files) to analyze them with another tool of your choice. The goal of the case study is to assess how you would approach the QA process on a dataset.
 
+**NOTE:** AI usage is allowed for this case study, *however*, if AI is used, please include any prompts that were used when submitting your work.
+
 ---
 
 ## 1. Prerequisites
@@ -168,12 +170,14 @@ dbt ls
 
 <span style="color:red"><b>NOTE: Please do not submit a pull request to the repo.</b></span>
 
-Please provide:
+Please provide the following to your Crossover point of contact:
 
 - A summary of any identified data quality issues and how you would propose fixing them
 - Any suggestions on updating documentation
 - Any proposed dbt tests (Google is your friend!)
 - (*Optional*) A brief strategy doc detailing how you would increase trust in the data over time. Consider personnel coverage, an alerting strategy, handling failing tests...
+
+**REMINDER:** If AI was utilized in your case study, please include your prompts!
 
 ---
 
